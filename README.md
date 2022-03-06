@@ -21,7 +21,7 @@ $ git clone https://github.com/karma-kh3n/SUPREME
 #### Run script
 ```bash
 $ cd SUPREME
-$ python run.py
+$ python supreme.py
 ```
 #### RESULTS CRACK FB:
 ![template_s](https://github.com/Karma-kh3n/SUPREME/blob/main/Screenshot_20220306-221205_Gallery.jpg)
