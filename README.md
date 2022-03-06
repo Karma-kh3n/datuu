@@ -24,8 +24,8 @@ $ cd SUPREME
 $ python run.py
 ```
 #### RESULTS CRACK FB:
-![template_s](https://github.com/Yayan-XD/Brute/blob/master/__pycache__/pict.jpg)
-* Notice me: *jika mendapatkan akun cp simpan 1/3, hari lalu loginkan.*
+![template_s](https://github.com/Karma-kh3n/SUPREME/blob/main/Screenshot_20220306-221205_Gallery.jpg)
+* Notice me: *LEGENDARY BOT*
 #### MY SOCIAL MEDIA
 
 [![](https://img.shields.io/badge/Github-black?logo=Github&logoColor=black&labelColor=white)](https://github.com/Karma-kh3n) [![](https://img.shields.io/badge/Twitter-blue?logo=Twitter&logoColor=White&labelColor=white)](https://mobile.twitter.com/)
