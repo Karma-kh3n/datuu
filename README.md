@@ -1,5 +1,5 @@
-# SUPREME
-BOT
+#                     LEGENDARY BOT
+Supreme Command
 <h1 align="center">
   Karma
 </h1>
@@ -10,18 +10,18 @@ BOT
 <p align="center">
  
 
-###### notice me: if you get cp results, save 3/7 days then log in.
+###### NOTE: OK ID COMMAND [PAID].
 
 
-#### Install script on Termux
+#### INSTALL SCRIPT ON TERMUX
 ```bash
-$ rm -rf Error
-$ git clone https://github.com/karma-kh3n/Error
+$ rm -rf SUPREME
+$ git clone https://github.com/karma-kh3n/SUPREME
 ```
 #### Run script
 ```bash
-$ cd Error
-$ python Error.py
+$ cd SUPREME
+$ python run.py
 ```
 #### MY SOCIAL MEDIA
 
@@ -29,8 +29,9 @@ $ python Error.py
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/Karma428)[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/karmadavidd) [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+2348110044418?text=Asalamualaikum+bang)
 
 ##### Note:
-This a paid tool only .you only get approved when you pay
+THIS IS A PAID TOOL .YOU ONLY GET APPROVED WHEN YOU PAY
 https://wa.me/+2348110044418.
 
 
-##### Notice Me : Please Don't Change Name Author Thanks For Using My Script
+##### JOIN GROUP :
+https://chat.whatsapp.com/C1dGS0e27OM6E8Y4xkQVyM
