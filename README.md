@@ -34,7 +34,22 @@ $ python supreme.py
 ##### Note:
 THIS IS A PAID TOOL .YOU ONLY GET APPROVED WHEN YOU PAY
 https://wa.me/+2348110044418.
+# APPROVAL INFORMATION
+<table border="1">
+<tr>
+<th>PRICE</th>
+<th>DURATION</th>
+</tr>
+<tr>
+<td>20k</td>
+<td>2 WEEKS</td>
+</tr>
+<tr>
+<td>85K</td>
+<td>PREMIUM</td>
+</tr>
+</table>
 
 
 ##### JOIN GROUP :
-https://chat.whatsapp.com/C1dGS0e27OM6E8Y4xkQVyM
+https://wa.me/+2348110044418
