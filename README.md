@@ -15,13 +15,18 @@ Supreme Command
 
 #### INSTALL SCRIPT ON TERMUX
 ```bash
-$ rm -rf SUPREME
-$ git clone https://github.com/karma-kh3n/SUPREME
+ rm -rf SUPREME
+ git clone https://github.com/karma-kh3n/SUPREME
 ```
 #### Run script
 ```bash
-$ cd SUPREME
-$ python supreme.py
+ cd SUPREME
+ python supreme.py
+```
+### SETUP
+```BASH
+cd SUPREME
+python3 -m pip install -r requirements.txt
 ```
 #### RESULTS CRACK FB:
 ![template_s](https://github.com/Karma-kh3n/SUPREME/blob/main/Screenshot_20220306-221205_Gallery.jpg)
