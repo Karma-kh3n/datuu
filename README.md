@@ -15,18 +15,18 @@ Supreme Command
 
 #### INSTALL SCRIPT ON TERMUX
 ```bash
- rm -rf SUPREME
- git clone https://github.com/karma-kh3n/SUPREME
+ rm -rf datu
+ git clone https://github.com/karma-kh3n/datu
 ```
 ### SETUP
 ```BASH
-cd SUPREME
-python3 -m pip install -r requirements.txt
+cd datu
+git pull
 ```
 #### RUN SCRIPT
 ```bash
- cd SUPREME
- python supreme.py
+ cd datu
+ python datu.py
 
 ```
 #### RESULTS CRACK FB:
