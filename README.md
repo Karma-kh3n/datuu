@@ -1,5 +1,5 @@
 #                     LEGENDARY BOT
-Supreme Command
+Datu Command
 <h1 align="center">
   Karma
 </h1>
