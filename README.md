@@ -38,7 +38,7 @@ git pull
 [![](https://img.shields.io/badge/Facebook-blue?logo=Facebook&logoColor=blue&labelColor=white)](https://www.facebook.com/Karma428)[![](https://img.shields.io/badge/Instagram-red?logo=Instagram&logoColor=red&labelColor=white)](https://www.instagram.com/karmadavidd) [![](https://img.shields.io/badge/Whatsapp-CHAT-red?logo=Whatsapp&logoColor=Brightgreen&labelColor=white)](https://wa.me/+2348110044418?text=Asalamualaikum+bang)
 
 ##### Note:
-THIS IS A PAID TOOL .YOU ONLY GET APPROVED WHEN YOU PAY
+THIS IS A PAID TOOL . YOU ONLY GET APPROVED WHEN YOU PAY
 https://wa.me/+2348110044418.
 # APPROVAL INFORMATION
 <table border="1">
